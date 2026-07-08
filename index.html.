@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LYDENZ VENTAS</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>LYDENZ VENTAS</h1>
+<p>Tu tienda en línea</p>
+</header>
+
+<nav>
+<a href="#">Inicio</a>
+<a href="#productos">Productos</a>
+<a href="#contacto">Contacto</a>
+</nav>
+
+<section class="hero">
+<h2>Bienvenido a LYDENZ VENTAS</h2>
+<p>Encuentra los mejores productos al mejor precio.</p>
+</section>
+
+<section id="productos">
+<h2>Nuestros Productos</h2>
+
+<div class="productos">
+
+<div class="producto">
+<img src="https://via.placeholder.com/250" alt="">
+<h3>Producto 1</h3>
+<p>$250</p>
+<button>Comprar</button>
+</div>
+
+<div class="producto">
+<img src="https://via.placeholder.com/250" alt="">
+<h3>Producto 2</h3>
+<p>$350</p>
+<button>Comprar</button>
+</div>
+
+<div class="producto">
+<img src="https://via.placeholder.com/250" alt="">
+<h3>Producto 3</h3>
+<p>$500</p>
+<button>Comprar</button>
+</div>
+
+</div>
+</section>
+
+<footer id="contacto">
+<p>WhatsApp: +52 Tu Número</p>
+<p>© 2026 LYDENZ VENTAS</p>
+</footer>
+
+</body>
+</html>
